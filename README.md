@@ -17,6 +17,6 @@ Once downloaded, we had to clean the dataset since the information was to messy 
 4. Select usufull columns for my analysis
 5. Clean and format Year column
 
-# Results:
+# Conclusion:
 
 After deep analysis, I found very interesting and usefull information related to shark atacks. However, I found out that I was wrong on my hypothesis since Florida is not the most dangerous region to have a shark attack.
