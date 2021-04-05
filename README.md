@@ -3,7 +3,7 @@ IS FLORIDA THE PLACE WHERE MOST SHARK ATTACKS HAPPEN AND ARE SURFERS THE MOST AF
 
 # Purpose:
 
-The purpose of this analysis is to find out whether if Florida, US, is the place where there are more shark attacks and whether if surfing is the most dangerous activity.
+This is the first project I do at Ironhack and the purpose of this analysis is to find out whether if Florida, US, is the place where there are more shark attacks and whether if surfing is the most dangerous activity.
 
 We have conducted the research out of a dataset we've downloaded from Kaggle named 'attacks.csv'.
 
@@ -17,6 +17,8 @@ Once downloaded, we had to clean the dataset since the information was to messy 
 4. Select usufull columns for my analysis
 5. Clean and format Year column
 
+In our study we have mainly used pandas, seaborn and numpy.
+
 # Conclusion:
 
-After deep analysis, I found very interesting and usefull information related to shark atacks. However, I found out that I was wrong on my hypothesis since Florida is not the most dangerous region to have a shark attack.
+After deep analysis, I found very interesting and useful information related to shark atacks. However, I found out that I was wrong on my hypothesis since Florida is not the most dangerous region to have a shark attack.
