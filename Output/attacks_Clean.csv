@@ -1,0 +1,113 @@
+,Year,Type,Country,Area,Activity,Sex ,Fatal (Y/N),Species 
+6,2018,Unprovoked,BRAZIL,Pernambuco,Swimming,M,Y,Tiger shark
+23,2018,Unprovoked,MALDIVES,Alifu Alifu Atoll,Fishing,M,N,Tiger shark
+30,2018,Unprovoked,BAHAMAS,New Providence,Surfing,M,N,Tiger shark
+34,2018,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N,White shark
+53,2017,Unprovoked,USA,Hawaii,Surfing,F,N,Tiger shark
+120,2017,Boating,USA,California,Kayaking,M,N,White shark
+155,2017,Unprovoked,AUSTRALIA,Western Australia,Surfing,F,Y,White shark
+169,2017,Boating,USA,California,Kayaking,M,N,White shark
+197,2016,Unprovoked,AUSTRALIA,New South Wales,Surfing,M,N,White shark
+236,2016,Boating,AUSTRALIA,Western Australia,Kayaking,M,N,White shark
+258,2016,Unprovoked,SOUTH AFRICA,Western Cape Province,Spearfishing,M,N,White shark
+271,2016,Unprovoked,AUSTRALIA,Western Australia,Surfing,M,Y,White shark
+370,2015,Unprovoked,FIJI,,Spearfishing,M,N,Tiger shark
+380,2015,Unprovoked,AUSTRALIA,New South Wales,Surfing,M,N,White shark
+389,2015,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N,White shark
+395,2015,Unprovoked,AUSTRALIA,New South Wales,Surfing,M,N,White shark
+408,2015,Invalid,AUSTRALIA,Western Australia,Surfing,F,N,White shark
+427,2015,Unprovoked,AUSTRALIA,New South Wales,Surfing,M,N,White shark
+455,2015,Boating,USA,Florida,Fishing,M,N,White shark
+470,2014,Unprovoked,AUSTRALIA,Queensland,Spearfishing,M,Y,Tiger shark
+474,2014,Boating,AUSTRALIA,Western Australia,Fishing,M,N,White shark
+524,2014,Unprovoked,SOUTH AFRICA,Western Cape Province,Surfing,M,N,White shark
+611,2013,Unprovoked,USA,Hawaii,Surfing,M,N,Tiger shark
+638,2013,Unprovoked,USA,California,Surfing,F,N,White shark
+680,2013,Unprovoked,MEXICO,Quintana Roo,Swimming,F,N,Tiger shark
+715,2012,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y,Tiger shark
+726,2012,Unprovoked,USA,California,Surfing,M,N,White shark
+826,2012,Unprovoked,USA,Oregon,Surfing,M,N,White shark
+847,2011,Unprovoked,USA,California,Surfing,M,N,White shark
+861,2011,Unprovoked,SOUTH AFRICA,Western Cape Province,Swimming,M,N,White shark
+918,2011,Unprovoked,SOUTH AFRICA,Western Cape Province,Surfing,M,N,White shark
+956,2011,Boat,AUSTRALIA,Western Australia,Fishing,,N,White shark
+971,2010,Boat,AUSTRALIA,Western Australia,Fishing,M,N,White shark
+984,2010,Unprovoked,USA,Oregon,Surfing,M,N,White shark
+986,2010,Unprovoked,SOUTH AFRICA,Western Cape Province,Swimming,M,Y,White shark
+996,2010,Unprovoked,AUSTRALIA,Western Australia,Surfing,M,Y,White shark
+1096,2009,Unprovoked,SOUTH AFRICA,Western Cape Province,Surfing,M,Y,White shark
+1166,2009,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Swimming,M,Y,Tiger shark
+1183,2008,Boating,USA,California,Kayaking,M,N,White shark
+1204,2008,Unprovoked,USA,Hawaii,Surfing,M,N,Tiger shark
+1263,2008,Unprovoked,MEXICO,Guerro,Surfing,M,Y,Tiger shark
+1286,2008,Unprovoked,USA,California,Surfing,M,N,White shark
+1305,2007,Unprovoked,USA,Hawaii,Surfing,M,N,Tiger shark
+1322,2007,Unprovoked,NEW CALEDONIA,Loyalty Islands,Swimming,F,Y,Tiger shark
+1324,2007,Unprovoked,USA,California,Surfing,F,N,White shark
+1370,2007,Unprovoked,USA,Hawaii,Surfing,M,N,Tiger shark
+1390,2007,Unprovoked,NEW CALEDONIA,South Province,Surfing,M,N,Tiger shark
+1400,2007,Provoked,NEW ZEALAND,Cook islans,Spearfishing,M,N,Tiger shark
+1491,2006,Unprovoked,BRAZIL,Pernambuco,Swimming,M,N,Tiger shark
+1504,2006,Unprovoked,TONGA,Vava'u,Swimming,F,Y,Tiger shark
+1515,2005,Unprovoked,USA,Oregon,Surfing,M,N,White shark
+1516,2005,Unprovoked,USA,Hawaii,Swimming,M,N,Tiger shark
+1536,2005,Unprovoked,USA,California,Surfing,M,N,White shark
+1638,2004,Unprovoked,USA,Oregon,Surfing,M,N,White shark
+1680,2004,Unprovoked,USA,Hawaii,Surfing,M,Y,Tiger shark
+1981,2001,Boating,NEW ZEALAND,North Island,Kayaking,M,N,White shark
+2004,2000,Unprovoked,AUSTRALIA,South Australia,Surfing,M,Y,White shark
+2099,1999,Unprovoked,USA,California,Kayaking,M,N,White shark
+2150,1998,Unprovoked,USA,Florida,Swimming,M,Y,Tiger shark
+2210,1997,Unprovoked,SOUTH AFRICA,Western Cape Province,Spearfishing,M,Y,White shark
+2268,1996,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Surfing,M,N,White shark
+2286,1996,Provoked,SOUTH AFRICA,KwaZulu-Natal,Spearfishing,M,N,White shark
+2327,1996,Unprovoked,USA,North Carolina,Surfing,M,N,Tiger shark
+2454,1994,Unprovoked,USA,Hawaii,Surfing,M,Y,Tiger shark
+2456,1994,Boat,AUSTRALIA,Western Australia,Fishing,,N,White shark
+2469,1993,Unprovoked,USA,Hawaii,Surfing,,N,Tiger shark
+2652,1989,Unprovoked,AUSTRALIA,Victoria,Surfing,M,N,White shark
+2661,1989,Unprovoked,AUSTRALIA,Victoria,Surfing,M,UNKNOWN,White shark
+2728,1988,Unprovoked,SOUTH AFRICA,Western Cape Province,Spearfishing,M,N,White shark
+2737,1988,Unprovoked,USA,California,Surfing,M,N,White shark
+2765,1987,Unprovoked,SOUTH AFRICA,Western Cape Province,Spearfishing,M,N,White shark
+2799,1986,Unprovoked,NEW CALEDONIA,,Spearfishing,,N,Tiger shark
+2865,1985,Unprovoked,NEW CALEDONIA,South Province,Spearfishing,,N,Tiger shark
+2916,1983,Unprovoked,USA,Florida,Surfing,M,N,Tiger shark
+2921,1983,Unprovoked,USA,Oregon,Surfing,M,N,White shark
+2955,1983,Unprovoked,SOUTH AFRICA,Western Cape Province,Spearfishing,M,N,White shark
+3139,1977,Unprovoked,AUSTRALIA,South Australia,Surfing,M,N,White shark
+3141,1977,Boat,SOUTH AFRICA,Western Cape Province,Fishing,M,N,White shark
+3345,1972,Unprovoked,FRANCE,Antibes,Swimming,,N,White shark
+3356,1971,Unprovoked,CROATIA,Istria County,Swimming,M,Y,White shark
+3371,1971,Unprovoked,AUSTRALIA,South Australia,Surfing,M,N,White shark
+3411,1970,Unprovoked,CROATIA,Zadar County,Spearfishing,M,UNKNOWN,White shark
+3447,1968,Unprovoked,NEW ZEALAND,South Island,Surfing,M,N,White shark
+3561,1966,Unprovoked,CROATIA,Primorje-Gorski Kotar County ,Swimming,M,Y,White shark
+3685,1964,Unprovoked,FIJI,Vita Levu,Spearfishing,M,Y,Tiger shark
+3710,1964,Unprovoked,PAPUA NEW GUINEA,New Britain,Fishing,M,Y,Tiger shark
+3724,1963,Unprovoked,AUSTRALIA,South Australia,Spearfishing,M,N,White shark
+3725,1963,Unprovoked,NEW BRITAIN,"South Coast, East New Britain",Spearfishing,M,Y,Tiger shark
+3743,1963,Unprovoked,FEDERATED STATES OF MICRONESIA,Eastern Caroline Islands,Spearfishing,M,N,Tiger shark
+3850,1962,Unprovoked,PAPUA NEW GUINEA,"10ºS, 142ºE",Spearfishing,M,N,White shark
+3876,1961,Unprovoked,CROATIA,Primorje-Gorski Kotar County ,Swimming,M,Y,White shark
+3927,1961,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,N,White shark
+4127,1958,Boat,TURKEY,Ahirkapi coast,Fishing,,,White shark
+4135,1958,Boat,USA,California,Fishing,,N,White shark
+4171,1958,Unprovoked,SOUTH AFRICA,KwaZulu-Natal,Swimming,M,Y,White shark
+4194,1957,Unprovoked,USA,North Carolina,Swimming,M,Y,White shark
+4200,1957,Unprovoked,USA,California,Swimming,M,Y,White shark
+4232,1956,Unprovoked,MAYOTTE,Mozambique Channel,Fishing,M,Y,Tiger shark
+4247,1956,Unprovoked,MALTA,St. Thomas Bay,Swimming,M,Y,White shark
+4253,1956,Boating,SOUTH AFRICA,Western Cape Province,Fishing,,N,White shark
+4285,1955,Unprovoked,CROATIA, Primorje-Gorski Kotar County,Swimming,F,Y,White shark
+4436,1951,Unprovoked,GREECE,Corfu Island,Swimming,M,N,White shark
+4437,1951,Unprovoked,GREECE,Corfu Island,Swimming,F,Y,White shark
+4803,1939,Boating,BAHAMAS,Andros Islands,Fishing,,N,Tiger shark
+4854,1937,Unprovoked,AUSTRALIA,New South Wales,Swimming,M,Y,White shark
+4888,1936,Unprovoked,AUSTRALIA,New South Wales,Swimming,M,Y,White shark
+4936,1934,Unprovoked,CROATIA,Adriatic Sea,Swimming,F,Y,White shark
+5041,1930,Unprovoked,USA,Florida,Swimming,M,N,Tiger shark
+5105,1928,Unprovoked,AUSTRALIA,Queensland,Fishing,M,N,Tiger shark
+5231,1922,Unprovoked,AUSTRALIA,New South Wales,Swimming,M,Y,White shark
+5545,1901,Unprovoked,SOUTH AFRICA,Western Cape Province,Swimming,M,Y,White shark
+5887,1874,Boating,CANADA,Newfoundland,Fishing,M,N,White shark
